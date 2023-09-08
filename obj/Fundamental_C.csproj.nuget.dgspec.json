@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/talent01/Bureau/project_perso/Fundamental_C/Fundamental_C.csproj": {}
+  },
+  "projects": {
+    "/home/talent01/Bureau/project_perso/Fundamental_C/Fundamental_C.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/talent01/Bureau/project_perso/Fundamental_C/Fundamental_C.csproj",
+        "projectName": "Fundamental_C",
+        "projectPath": "/home/talent01/Bureau/project_perso/Fundamental_C/Fundamental_C.csproj",
+        "packagesPath": "/home/talent01/.nuget/packages/",
+        "outputPath": "/home/talent01/Bureau/project_perso/Fundamental_C/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/talent01/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/talent01/.dotnet/sdk/6.0.413/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

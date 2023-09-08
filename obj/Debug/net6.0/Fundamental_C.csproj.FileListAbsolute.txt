@@ -1,0 +1,15 @@
+/home/talent01/Bureau/project_perso/Fundamental_C/bin/Debug/net6.0/Fundamental_C
+/home/talent01/Bureau/project_perso/Fundamental_C/bin/Debug/net6.0/Fundamental_C.deps.json
+/home/talent01/Bureau/project_perso/Fundamental_C/bin/Debug/net6.0/Fundamental_C.runtimeconfig.json
+/home/talent01/Bureau/project_perso/Fundamental_C/bin/Debug/net6.0/Fundamental_C.dll
+/home/talent01/Bureau/project_perso/Fundamental_C/bin/Debug/net6.0/Fundamental_C.pdb
+/home/talent01/Bureau/project_perso/Fundamental_C/obj/Debug/net6.0/Fundamental_C.csproj.AssemblyReference.cache
+/home/talent01/Bureau/project_perso/Fundamental_C/obj/Debug/net6.0/Fundamental_C.GeneratedMSBuildEditorConfig.editorconfig
+/home/talent01/Bureau/project_perso/Fundamental_C/obj/Debug/net6.0/Fundamental_C.AssemblyInfoInputs.cache
+/home/talent01/Bureau/project_perso/Fundamental_C/obj/Debug/net6.0/Fundamental_C.AssemblyInfo.cs
+/home/talent01/Bureau/project_perso/Fundamental_C/obj/Debug/net6.0/Fundamental_C.csproj.CoreCompileInputs.cache
+/home/talent01/Bureau/project_perso/Fundamental_C/obj/Debug/net6.0/Fundamental_C.dll
+/home/talent01/Bureau/project_perso/Fundamental_C/obj/Debug/net6.0/refint/Fundamental_C.dll
+/home/talent01/Bureau/project_perso/Fundamental_C/obj/Debug/net6.0/Fundamental_C.pdb
+/home/talent01/Bureau/project_perso/Fundamental_C/obj/Debug/net6.0/Fundamental_C.genruntimeconfig.cache
+/home/talent01/Bureau/project_perso/Fundamental_C/obj/Debug/net6.0/ref/Fundamental_C.dll
