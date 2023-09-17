@@ -1,0 +1,15 @@
+/workspaces/Fundamental_C/Challenge-project-Create-methods-in-CSharp-main/Final/bin/Debug/net6.0/Final
+/workspaces/Fundamental_C/Challenge-project-Create-methods-in-CSharp-main/Final/bin/Debug/net6.0/Final.deps.json
+/workspaces/Fundamental_C/Challenge-project-Create-methods-in-CSharp-main/Final/bin/Debug/net6.0/Final.runtimeconfig.json
+/workspaces/Fundamental_C/Challenge-project-Create-methods-in-CSharp-main/Final/bin/Debug/net6.0/Final.dll
+/workspaces/Fundamental_C/Challenge-project-Create-methods-in-CSharp-main/Final/bin/Debug/net6.0/Final.pdb
+/workspaces/Fundamental_C/Challenge-project-Create-methods-in-CSharp-main/Final/obj/Debug/net6.0/Final.csproj.AssemblyReference.cache
+/workspaces/Fundamental_C/Challenge-project-Create-methods-in-CSharp-main/Final/obj/Debug/net6.0/Final.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Fundamental_C/Challenge-project-Create-methods-in-CSharp-main/Final/obj/Debug/net6.0/Final.AssemblyInfoInputs.cache
+/workspaces/Fundamental_C/Challenge-project-Create-methods-in-CSharp-main/Final/obj/Debug/net6.0/Final.AssemblyInfo.cs
+/workspaces/Fundamental_C/Challenge-project-Create-methods-in-CSharp-main/Final/obj/Debug/net6.0/Final.csproj.CoreCompileInputs.cache
+/workspaces/Fundamental_C/Challenge-project-Create-methods-in-CSharp-main/Final/obj/Debug/net6.0/Final.dll
+/workspaces/Fundamental_C/Challenge-project-Create-methods-in-CSharp-main/Final/obj/Debug/net6.0/refint/Final.dll
+/workspaces/Fundamental_C/Challenge-project-Create-methods-in-CSharp-main/Final/obj/Debug/net6.0/Final.pdb
+/workspaces/Fundamental_C/Challenge-project-Create-methods-in-CSharp-main/Final/obj/Debug/net6.0/Final.genruntimeconfig.cache
+/workspaces/Fundamental_C/Challenge-project-Create-methods-in-CSharp-main/Final/obj/Debug/net6.0/ref/Final.dll

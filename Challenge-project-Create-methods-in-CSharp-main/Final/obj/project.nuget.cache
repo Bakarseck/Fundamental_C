@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wJH6tyibeO0w4mQ9GdCObBDYxKU0U5oOfC8I8UB4/8RhhBduIXUlyzFTkyd2qDwPtRR78g9c7d8ZUJYVQyM8qQ==",
+  "success": true,
+  "projectFilePath": "/workspaces/Fundamental_C/Challenge-project-Create-methods-in-CSharp-main/Final/Final.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.ref/6.0.20/microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.20/microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.20/microsoft.netcore.app.host.linux-x64.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
