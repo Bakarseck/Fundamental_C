@@ -1,0 +1,5 @@
+/workspaces/Fundamental_C/dice/obj/Debug/net7.0/dice.csproj.AssemblyReference.cache
+/workspaces/Fundamental_C/dice/obj/Debug/net7.0/dice.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Fundamental_C/dice/obj/Debug/net7.0/dice.AssemblyInfoInputs.cache
+/workspaces/Fundamental_C/dice/obj/Debug/net7.0/dice.AssemblyInfo.cs
+/workspaces/Fundamental_C/dice/obj/Debug/net7.0/dice.csproj.CoreCompileInputs.cache
