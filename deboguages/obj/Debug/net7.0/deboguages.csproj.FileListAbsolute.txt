@@ -1,0 +1,15 @@
+/workspaces/Fundamental_C/deboguages/bin/Debug/net7.0/deboguages
+/workspaces/Fundamental_C/deboguages/bin/Debug/net7.0/deboguages.deps.json
+/workspaces/Fundamental_C/deboguages/bin/Debug/net7.0/deboguages.runtimeconfig.json
+/workspaces/Fundamental_C/deboguages/bin/Debug/net7.0/deboguages.dll
+/workspaces/Fundamental_C/deboguages/bin/Debug/net7.0/deboguages.pdb
+/workspaces/Fundamental_C/deboguages/obj/Debug/net7.0/deboguages.csproj.AssemblyReference.cache
+/workspaces/Fundamental_C/deboguages/obj/Debug/net7.0/deboguages.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Fundamental_C/deboguages/obj/Debug/net7.0/deboguages.AssemblyInfoInputs.cache
+/workspaces/Fundamental_C/deboguages/obj/Debug/net7.0/deboguages.AssemblyInfo.cs
+/workspaces/Fundamental_C/deboguages/obj/Debug/net7.0/deboguages.csproj.CoreCompileInputs.cache
+/workspaces/Fundamental_C/deboguages/obj/Debug/net7.0/deboguages.dll
+/workspaces/Fundamental_C/deboguages/obj/Debug/net7.0/refint/deboguages.dll
+/workspaces/Fundamental_C/deboguages/obj/Debug/net7.0/deboguages.pdb
+/workspaces/Fundamental_C/deboguages/obj/Debug/net7.0/deboguages.genruntimeconfig.cache
+/workspaces/Fundamental_C/deboguages/obj/Debug/net7.0/ref/deboguages.dll

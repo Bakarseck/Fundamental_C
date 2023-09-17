@@ -1,0 +1,15 @@
+/workspaces/Fundamental_C/throw/bin/Debug/net7.0/throw
+/workspaces/Fundamental_C/throw/bin/Debug/net7.0/throw.deps.json
+/workspaces/Fundamental_C/throw/bin/Debug/net7.0/throw.runtimeconfig.json
+/workspaces/Fundamental_C/throw/bin/Debug/net7.0/throw.dll
+/workspaces/Fundamental_C/throw/bin/Debug/net7.0/throw.pdb
+/workspaces/Fundamental_C/throw/obj/Debug/net7.0/throw.csproj.AssemblyReference.cache
+/workspaces/Fundamental_C/throw/obj/Debug/net7.0/throw.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Fundamental_C/throw/obj/Debug/net7.0/throw.AssemblyInfoInputs.cache
+/workspaces/Fundamental_C/throw/obj/Debug/net7.0/throw.AssemblyInfo.cs
+/workspaces/Fundamental_C/throw/obj/Debug/net7.0/throw.csproj.CoreCompileInputs.cache
+/workspaces/Fundamental_C/throw/obj/Debug/net7.0/throw.dll
+/workspaces/Fundamental_C/throw/obj/Debug/net7.0/refint/throw.dll
+/workspaces/Fundamental_C/throw/obj/Debug/net7.0/throw.pdb
+/workspaces/Fundamental_C/throw/obj/Debug/net7.0/throw.genruntimeconfig.cache
+/workspaces/Fundamental_C/throw/obj/Debug/net7.0/ref/throw.dll
